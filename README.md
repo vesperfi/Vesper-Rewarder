@@ -9,6 +9,12 @@ Whenever a user interacts with the `MasterChefV2` contract (that handle 2x rewar
 
 See more: https://dev.sushi.com/sushiswap/contracts/masterchefv2/adding-double-incentives
 
+## Environment
+
+```sh
+nvm use
+```
+
 ## Install
 
 ```sh
