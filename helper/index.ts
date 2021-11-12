@@ -1,0 +1,6 @@
+export const Address = {
+  MASTERCHEF_V2: '0xef0881ec094552b2e128cf945ef17a6752b4ec5d',
+  VSP: '0x1b40183efb4dd766f11bda7a7c3ad8982e998421',
+  VSP_ETH_SLP: '0x132eEb05d5CB6829Bd34F552cDe0b6b708eF5014', // I.e. VSP/ETH SushiSwap pair
+  VESPER_REWARDER_OWNER: '', // TODO
+}
