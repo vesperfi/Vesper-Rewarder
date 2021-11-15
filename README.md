@@ -53,7 +53,7 @@ Check the `hardhat.config.ts` file and uncomment the `accounts` param accordingl
 3.  Run deployment script
 
 ```sh
-npm run deploy -- --gasprice <gas price in wei> --netowrk <network>
+npm run deploy -- --gasprice <gas price in wei> --network <network>
 ```
 
 ## Verify
